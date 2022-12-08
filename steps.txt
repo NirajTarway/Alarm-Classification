@@ -1,0 +1,7 @@
+create repository with readme and .gitignore etc
+clone git
+create virtual env
+activate env
+create setup.py file
+create requirements.txt
+execute python setup.py install 
